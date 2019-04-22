@@ -15,6 +15,8 @@ We can use binary classification for this problem, because a review can be negat
 This dataset contains  480,000 critic reviews from Rotten Tomatoes. The dataset consist of 2 columns freshness and review.
 Freshness indicates if the review is negative or positiv.
 
+You can use the downloader.py to download the dataset.
+
 
 # Part 3: Data content and format
 
